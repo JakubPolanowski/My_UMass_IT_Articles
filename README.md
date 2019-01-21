@@ -4,6 +4,12 @@ Simply a list of articles/blog posts I have written so far.
 
 ## UMASS Techbytes
 
+### Hiding in Plain Sight with Steganography
+
+October 30, 2018 - https://blogs.umass.edu/Techbytes/2018/10/30/hiding-in-plain-sight-with-steganography/
+
+An introduction to steganography with examples of how to use it on Linux systems. 
+
 ### Restoring a MacBook with an Erased Hard Drive
 
 April 6, 2018 - https://blogs.umass.edu/Techbytes/2018/04/06/restoring-a-macbook-with-an-erased-hard-drive/
