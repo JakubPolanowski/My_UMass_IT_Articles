@@ -1,6 +1,6 @@
 # My Articles 
 
-Simply a list of articles/blog posts I have written so far.
+Simply a list of articles/blog posts I have written while working for UMass IT User Services (back when User Services still ran a technology blog - since abandoned by the deparment).
 
 ## UMASS Techbytes
 
